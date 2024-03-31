@@ -197,7 +197,7 @@ const Main: React.FC = () => {
           ></Marquee>
         </div>
         <div id="projects" className="transition-all section flex flex-col justify-center">
-          <div className="text-center font-bold text-4xl pb-5">My deployed project</div>
+          <div className="text-center font-bold text-4xl pb-5">My deployed projects</div>
           <div className="flex flex-wrap justify-center gap-5">
             <a
               href="https://dice-gamee-in-react.netlify.app/"
